@@ -36,8 +36,8 @@ ______ _                       _   _   _ _   _ _
 |___/ |_|___/\___\___/|_|  \__,_|  \___/ \__|_|_|___/
                    -rewritten-
 {Color.LIGHTBLACK_EX}
-                 Made by Chaotic
-  https://github.com/Chatic-Gaming/DiscordSelfbot
+                 Made by Astrozinn
+  https://github.com/Astrox7/DiscordSelfbot
 
               {Color.WHITE}Discord Version {discord.__version__}
 
